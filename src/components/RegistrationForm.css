@@ -1,0 +1,34 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@400;700&display=swap');
+
+.form {
+    padding-bottom: 1rem;
+    background-color: aliceblue;
+    border-radius: 0.5rem;
+}
+
+.new-user__controls {
+    padding: 1rem;
+    text-align: left;
+    display: block;
+}
+
+.new-user__control label {
+    display: block;
+}
+
+.new-user__control input {
+    width: 100%;
+}
+
+.new-user__actions {
+    margin-left: 1rem;
+}
+
+.new-user__actions button {
+    font: inherit;
+    color: aliceblue;
+    padding-left: 0.5rem;
+    padding-right: 0.5rem;
+    max-width: 100%;
+    background-color:rgb(70, 7, 84) ;
+}
